@@ -3,3 +3,7 @@
 ## I've learned...
 
 What issues are for. I have used github for a while but only for small projects on small teams. So I've never used the issues feature.
+
+## What's next...
+
+I might start using issues when assigning tasks to my undergrads on projects. That way they have a written and detailed account of what should be implemented
